@@ -1,0 +1,9 @@
+//Learnt how to create objects
+const myDog = {
+ 
+  "name": "Chico",
+  "legs" : 4,
+  "tails" : 1,
+  "friends": ["bumblebee","tico"]
+
+};
