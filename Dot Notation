@@ -1,0 +1,10 @@
+// Learn how to access an object's property information or value.
+
+const testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
+};
+
+const hatValue = testObj.hat;    
+const shirtValue = testObj.shirt;  
