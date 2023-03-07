@@ -1,0 +1,9 @@
+//The bracket notation can also be used to access the objects property if it has spaces in the name.
+const testObj = {
+ "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
+};
+
+const entreeValue = testObj["an entree"]; 
+const drinkValue = testObj["the drink"];    
